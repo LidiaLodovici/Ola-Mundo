@@ -3,4 +3,6 @@
 
  Relembrando o uso.
  
+ Essa linha eu adicionei diretamente no github.
+ 
 
